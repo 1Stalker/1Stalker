@@ -7,12 +7,12 @@
 <div align="center">
   <a href="https://github.com/1Stalker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Stalker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Stalker&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Stalker&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Stalker-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Stalker-pic" height="150" style="border-radius:50px;" src="https://discord.com/863818d6-72ed-4aec-89cb-5483654b3ed2">
+    
 </div>
   
 ##
