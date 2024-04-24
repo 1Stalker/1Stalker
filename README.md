@@ -18,13 +18,13 @@
 ##
   
 <div>
- <a href="https://www.twitch.tv/stalker_fn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+ <a href="https://www.twitch.tv/1stxlker" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
                                                                  target="_blank"></a>
- <a href="https://www.youtube.com/channel/UCHH2nMnQALNNSu0xqDXLjBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/stalker_fn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+ <a href="https://www.youtube.com/@1Stalker" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/1stxlker/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
                                                                       target="_blank"></a>
- <a href="https://twitter.com/stalker_fn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+ <a href="https://twitter.com/1Stxlker" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
                                                                target="_blank"></a>
- <a href="https://www.tiktok.com/@stalker_fn" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
+ <a href="https://www.tiktok.com/@1stxlker" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"
                                                                    target="_blank"></a>
 </div>
