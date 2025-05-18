@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Stalker <ↄ>
 
-- 👨‍💻 Pretendo trabalhar com back-end
-- 📌 Estudando JavaScript
+- 👨‍💻 Pretendo trabalhar como Dev FullStack
+- 🐱‍👤 Em busca da CyberSecurity
+- 📌 Estudando Kotlin no momento
 - 🌱 feeling blessed
-
+- 👨‍💻 Minhas redes sociais: @1stxlker
 <div align="center">
   <a href="https://github.com/1Stalker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Stalker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
